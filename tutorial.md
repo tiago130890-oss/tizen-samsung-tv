@@ -54,6 +54,9 @@ Caso não esteja na lista, vá em Add Module (Adicionar Módulo), selecione NPM 
 
 Ative a inicialização automática (opcional, mas recomendado):
 
+NOVO APP TIZEN TUBE COBALT MAIS ATUAL LINK ..https://github.com/reisxd/TizenTube/releases
+
+
 Nas configurações do TizenBrew (botão Verde/Settings), ative o Auto Launch selecionando o @foxreis/tizentube. Assim, toda vez que você clicar no ícone da cerveja na TV, ele já abre direto no YouTube sem anúncios.
 
 Como saber se funcionou: Assim que abrir um vídeo, aperte para cima/baixo para abrir a barra de reprodução e veja se aparece o ícone de configurações do TizenTube (ou o botão verde/vermelho/azul funcionando para pular patrocínios). Se o botão do TizenTube estiver lá, o bloqueio está ativo!
